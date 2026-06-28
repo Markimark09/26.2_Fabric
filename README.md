@@ -1,4 +1,5 @@
-Eine Sammlung hochwertiger Fabric-Modifikationen für Minecraft
+**Eine Sammlung hochwertiger Fabric-Modifikationen für Minecraft**
+
 Eine optimierte Modliste für Minecraft Fabric, die Performance, Grafik und Spielerlebnis verbessert.
 
 📌 Modliste
