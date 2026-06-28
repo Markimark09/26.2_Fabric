@@ -27,19 +27,16 @@ Eine optimierte Modliste für Minecraft Fabric, die Performance, Grafik und Spie
 | **Xaero's Minimap** | Zeigt eine **Minimap** im Spiel an, um die Navigation zu erleichtern. | [Modrinth](https://modrinth.com/mod/1bokaNcj) |
 | **Xaero's World Map** | Bietet eine **detaillierte Weltkarte** für bessere Erkundung. | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
 
+---
+
 🔧 Installation
 
-Fabric Loader installieren
-Stelle sicher, dass du Fabric Loader für deine Minecraft-Version (z. B. 1.20.4–1.20.6) installiert hast.
+1. **Fabric Loader installieren**: Stelle sicher, dass du [Fabric Loader](https://fabricmc.net/) für deine Minecraft-Version installiert hast.
+2. **Mods herunterladen**: Lade alle Mods von den angegebenen Modrinth-Links herunter.
+3. **Mods in den Mods-Ordner einfügen**: Kopiere die heruntergeladenen `.jar`-Dateien in den `mods`-Ordner deines Minecraft-Verzeichnisses (`%appdata%/.minecraft/mods` auf Windows oder `~/Library/Application Support/minecraft/mods` auf macOS).
+4. **Minecraft starten**: Starte Minecraft mit dem Fabric-Profil und genieße die optimierte Erfahrung!
 
-Mods herunterladen
-Lade alle Mods von den angegebenen Modrinth-Links herunter.
-
-Mods in den mods-Ordner einfügen
-Kopiere die heruntergeladenen .jar-Dateien in den mods-Ordner deines Minecraft-Verzeichnisses:
-
-Minecraft starten
-Starte Minecraft mit dem Fabric-Profil und genieße die optimierte Erfahrung!
+---
 
 ⚠ Wichtige Hinweise
 
