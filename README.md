@@ -1,3 +1,8 @@
+Eine Sammlung hochwertiger Fabric-Modifikationen für Minecraft
+Eine optimierte Modliste für Minecraft Fabric, die Performance, Grafik und Spielerlebnis verbessert.
+
+📌 Modliste
+
 | **Mod-Name** | **Beschreibung** | **Download-Link** |
 |--------------|------------------|-------------------|
 | **Bobby** | Ermöglicht das Vorausladen von Chunks, um Ladeverzögerungen und Ruckler zu minimieren. | [Modrinth](https://modrinth.com/mod/M08ruV16) |
@@ -21,3 +26,30 @@
 | **Xaero's Minimap** | Zeigt eine **Minimap** im Spiel an, um die Navigation zu erleichtern. | [Modrinth](https://modrinth.com/mod/1bokaNcj) |
 | **Xaero's World Map** | Bietet eine **detaillierte Weltkarte** für bessere Erkundung. | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
 
+🔧 Installation
+
+Fabric Loader installieren
+Stelle sicher, dass du Fabric Loader für deine Minecraft-Version (z. B. 1.20.4–1.20.6) installiert hast.
+
+Mods herunterladen
+Lade alle Mods von den angegebenen Modrinth-Links herunter.
+
+Mods in den mods-Ordner einfügen
+Kopiere die heruntergeladenen .jar-Dateien in den mods-Ordner deines Minecraft-Verzeichnisses:
+
+Windows: %appdata%\.minecraft\mods
+macOS: ~/Library/Application Support/minecraft/mods
+Linux: ~/.minecraft/mods
+
+
+Minecraft starten
+Starte Minecraft mit dem Fabric-Profil und genieße die optimierte Erfahrung!
+
+
+
+⚠ Wichtige Hinweise
+
+🔒 Sicherheit: Lade Mods nur von vertrauenswürdigen Quellen wie Modrinth oder CurseForge herunter.
+⚡ Kompatibilität: Stelle sicher, dass alle Mods mit deiner Minecraft-Version (z. B. 1.20.4) kompatibel sind.
+🧪 Testen: Probiere die Mods in einer Testwelt aus, um mögliche Konflikte oder Instabilitäten zu vermeiden.
+💾 Backup: Erstelle vor der Installation ein Backup deiner Welt, um Datenverlust zu vermeiden.
