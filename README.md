@@ -2,7 +2,9 @@
 
 Eine optimierte Modliste für Minecraft Fabric, die Performance, Grafik und Spielerlebnis verbessert.
 
-📌 Modliste
+---
+
+## 📌 Modliste
 
 | **Mod-Name** | **Beschreibung** | **Download-Link** |
 |--------------|------------------|-------------------|
@@ -29,7 +31,7 @@ Eine optimierte Modliste für Minecraft Fabric, die Performance, Grafik und Spie
 
 ---
 
-🔧 Installation
+## 🔧 Installation
 
 1. **Fabric Loader installieren**: Stelle sicher, dass du [Fabric Loader](https://fabricmc.net/) für deine Minecraft-Version installiert hast.
 2. **Mods herunterladen**: Lade alle Mods von den angegebenen Modrinth-Links herunter.
@@ -38,7 +40,7 @@ Eine optimierte Modliste für Minecraft Fabric, die Performance, Grafik und Spie
 
 ---
 
-⚠ Wichtige Hinweise
+## ⚠ Wichtige Hinweise
 
 🔒 Sicherheit: Lade Mods nur von vertrauenswürdigen Quellen wie Modrinth oder CurseForge herunter.
 ⚡ Kompatibilität: Stelle sicher, dass alle Mods mit deiner Minecraft-Version (z. B. 1.20.4) kompatibel sind.
