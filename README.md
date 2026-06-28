@@ -38,15 +38,8 @@ Lade alle Mods von den angegebenen Modrinth-Links herunter.
 Mods in den mods-Ordner einfügen
 Kopiere die heruntergeladenen .jar-Dateien in den mods-Ordner deines Minecraft-Verzeichnisses:
 
-Windows: %appdata%\.minecraft\mods
-macOS: ~/Library/Application Support/minecraft/mods
-Linux: ~/.minecraft/mods
-
-
 Minecraft starten
 Starte Minecraft mit dem Fabric-Profil und genieße die optimierte Erfahrung!
-
-
 
 ⚠ Wichtige Hinweise
 
